@@ -1,5 +1,4 @@
-# minodes
-Data science challenge for MiNODES internship position.
+# Wifi Localization
 
 ML task: Supervised learning>Multi-calss classification problem.
 
